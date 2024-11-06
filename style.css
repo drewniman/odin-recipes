@@ -1,0 +1,19 @@
+* {
+  font-family: Monaco, Courier, monospace;
+}
+
+.index {
+  background-color: rgb(225, 225, 225);
+}
+
+.enchiladas {
+  background-color: rgb(211, 230, 202);
+}
+
+.stroganoff {
+  background-color: rgb(231, 202, 202);
+}
+
+.clam-pasta {
+  background-color: rgb(232, 232, 195);
+}
